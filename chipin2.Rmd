@@ -1,0 +1,14 @@
+---
+title: "Chip in!"
+output: html_document
+---
+
+You can help me out financially here. Funds collected this way have three purposes:
+
+* To pay for critical services that support CheckMySolar.
+* To tell me whether people feel this site is useful.
+* To give me more motivation to keep this going!
+
+(via Paypal, $5)
+
+You can also chip in your social network by reccomending CheckMySolar to your friends.
